@@ -1,0 +1,14 @@
+{
+  "project": "william-shockley-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "nVZ7GWAfc3xXEvk8g9EqTCA4f4VodYc1BQG9fsoUVRR",
+  "vault_account": "5frpDYZppqf9zCtbWaWt3NqTHYrEeHwdxeSiwJRWXDfN",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "37QfTBo4w1DLSZTEMgZ64s5mZbnahYnmHy9jyBsK4u3Au18azDPRPPXiP53WxVS41HagF2XnBwpa5kZmH7KPZ4C2",
+  "account_tx": "4fjRqC36hfCq3t6pucaDxBDTqRhMPogA8jv8P2vjzbhxBmRPg1Zdx7Dj4KqbjPgf7YhdFu2LD5Ub2vft1L3LZuj1",
+  "mint_tx": "2yatiHx6YsdKNYyrCpVZsEA1BdBdh1V3JzXgQJMP83YJ7sbM1WQZi93RFewoywZ6517sijBFYjFHhWhJkyoijFMd",
+  "solana_explorer_mint": "https://explorer.solana.com/address/nVZ7GWAfc3xXEvk8g9EqTCA4f4VodYc1BQG9fsoUVRR?cluster=devnet",
+  "timestamp": "2026-10-26 17:03:42 UTC"
+}
